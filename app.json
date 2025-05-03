@@ -9,7 +9,15 @@
        "manager"
     ],   
  "repository": "https://github.com/ankitkumarbh",
- "stack": "heroku-22",
+ "stack": "heroku-24",
+ "buildpacks": [
+     {
+         "url": "heroku-community/apt"
+     },
+     {
+         "url": "heroku/python"
+     }
+ ],
  "env": {
     "API_ID": {
        "description": "Get this value from my.telegram.org/apps.",
