@@ -21,10 +21,10 @@ gpytranslate==1.5.1
 hachoir==3.3.0
 html2text==2020.1.16
 jikanpy==4.3.2
-# # lxml
+lxml
 markdown2==2.4.11
 motor==3.6.0
-#opencv-python-headless==4.8.1.78
+opencv-python-headless==4.8.1.78
 pillow==10.1.0
 pretty_errors==1.2.25
 psutil==5.9.6
@@ -61,14 +61,14 @@ datetime
 pybase64
 pySmartDL
 gitpython
-#PyGithub
+PyGithub
 python-decouple
 unshortenit
 nums_from_string
 python-amazon-paapi
 python-dotenv==0.15.0
-#uvloop
+uvloop
 redis
-#covid
-#aria2
+covid
+aria2
 tswift
